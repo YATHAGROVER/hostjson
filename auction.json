@@ -1,0 +1,15 @@
+{
+    "name": "Louis Vuitton",
+    "description": "Buy this NFT using ",
+    "image": "https://t3.ftcdn.net/jpg/03/08/90/98/360_F_308909852_iiWoWdRZu69n8TovXxIjqi5TVau5S8Y0.jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
