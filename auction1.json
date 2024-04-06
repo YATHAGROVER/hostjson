@@ -1,0 +1,15 @@
+{
+    "name": "Balenciaga",
+    "description": "Buy and bid for the balenciaga shoes from this NFT using your tokens",
+    "image": "https://www.highsnobiety.com/static-assets/dato/1632596963-best-balenciaga-sneakers-feat-00.jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
