@@ -1,7 +1,7 @@
 {
     "name": "Your NFT Name",
     "description": "NFT Description",
-    "image": "yatha.jpg",
+    "image": "https://i.pinimg.com/originals/8d/a1/37/8da137f783c040ac81e31e730b35190e.jpg",
     "attributes": [
         {
             "trait_type": "Trait Name",
