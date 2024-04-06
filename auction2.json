@@ -1,0 +1,15 @@
+{
+    "name": "Item-1",
+    "description": "Buy the items present here using the NFTs",
+    "image": "https://www.highsnobiety.com/static-assets/dato/1632596963-best-balenciaga-sneakers-feat-00.jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
